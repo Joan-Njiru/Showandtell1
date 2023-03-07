@@ -1,0 +1,100 @@
+body{
+    background-image: url(Images/full.jpg);
+}
+.topnav {
+    width: 100%;
+    display: flex;
+}
+.topnav ul li{
+    list-style: none;
+    display: inline;
+    margin:1em;
+}
+.first{
+    width: 60%;
+}
+.last{
+    width: 40%;
+    padding-left: 400px;
+}
+.bod{
+    width: 100%;
+    display: flex;
+}
+.left{
+    width: 50%;
+    margin-top: 100px;
+}
+.right{
+    width: 60%;
+}
+#gir{
+    width: 100%;
+}
+form{
+    border: solid 0.08vh grey;
+    padding: 10px;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    opacity: 0.7;
+    text-align: center;
+
+
+    
+}
+input{
+    text-align: center;
+    border: 0.2vh solid rgb(137, 141, 137);
+    width: 30%;
+    height: 30%;
+    background-color: rgba(219, 207, 209, 0.877);
+    color:black;
+    margin-right: auto;
+
+
+}
+#heading{
+color:brown;
+}
+#submit{
+    color: white;
+    background-color:brown;
+    text-align: center;
+}
+#Sign-up{
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+}
+.headit{
+    width: 100%;
+}
+.mens{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.one{
+    width: 20%;
+}
+.two{
+    width: 20%;
+}
+.three{
+    width: 20%;
+}
+.four{
+    width: 20%;
+}
+#guy{
+width: 150px;
+border: solid 0.5px black;
+border-radius: 5%;
+}
+.but{
+    text-align: center;
+}
+.top{
+    text-align: center;
+}
